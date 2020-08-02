@@ -1,6 +1,7 @@
 # python_techdegree_project_1
  The Number Guessing Game
 
+
 To start, run python guessing_game.py
 
 You will be prompted to guess a random number (integer only) between (and including) 1 and 10.
