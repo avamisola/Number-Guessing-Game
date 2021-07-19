@@ -1,5 +1,4 @@
-# python_techdegree_project_1
- The Number Guessing Game
+# Number Guessing Game
 
 
 To start, run python guessing_game.py
